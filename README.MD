@@ -1,6 +1,6 @@
-# TCC: Coleção dos trabalhos
+# Trabalho de Conclusão de Curso
 
-Este repositório é uma coleção dos trabalhos feitos em parceria com a empresa Equilíbrio Natural ao Trabalho de Conclusão de Curso para ETEC Jardim Ângela. O objetivo é centralizar os projetos em um único local para facilitar na organização do trabalho como um todo.
+Este repositório é uma coleção dos trabalhos feitos em parceria com a empresa Equilíbrio Natural ao Trabalho de Conclusão de Curso para ETEC Jardim Ângela. O objetivo é centralizar os projetos em um único local, organizando o trabalho como um todo.
 
 ## Projetos
 
