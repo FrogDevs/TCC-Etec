@@ -17,7 +17,3 @@ Este repositório é uma coleção dos trabalhos feitos em parceria com a empres
 - [João Oliveira](https://github.com/Jokxis)
 - [Leandro Eduardo](https://github.com/miraibr)
 - [Vinícius Costa](https://github.com/Jolonte)
-
-## Licença
-
-[MIT](https://choosealicense.com/licenses/mit/)
