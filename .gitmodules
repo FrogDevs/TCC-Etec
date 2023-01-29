@@ -4,3 +4,6 @@
 [submodule "equilibrionatural-website"]
 	path = equilibrionatural-website
 	url = https://github.com/FrogDevs/equilibrionatural-controle_estoque.git
+[submodule "equilibrionatural-controle_estoque"]
+	path = equilibrionatural-controle_estoque
+	url = https://github.com/FrogDevs/equilibrionatural-controle_estoque.git
