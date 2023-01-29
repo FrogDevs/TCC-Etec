@@ -1,3 +1,6 @@
 [submodule "website"]
 	path = website
 	url = https://github.com/FrogDevs/website.git
+[submodule "equilibrionatural-website"]
+	path = equilibrionatural-website
+	url = https://github.com/FrogDevs/equilibrionatural-controle_estoque.git
