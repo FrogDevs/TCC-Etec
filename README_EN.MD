@@ -15,7 +15,3 @@ This repository is a collection of the work done in partnership with the company
 - [João Oliveira](https://github.com/Jokxis)
 - [Leandro Eduardo](https://github.com/miraibr)
 - [Vinícius Costa](https://github.com/Jolonte)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
