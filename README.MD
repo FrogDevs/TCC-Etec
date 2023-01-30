@@ -6,6 +6,6 @@ Este repositório é uma coleção dos trabalhos feitos em parceria com a empres
 
 ## Projetos
 
-- [Website - Frogdevs](website)
-- [Website - Equilíbrio Natural](equilibrionatural-website)
-- [Controle de Estoque - Equilíbrio Natural](equilibrionatural-controle_estoque)
+- [Website - Frogdevs](https://github.com/FrogDevs/website)
+- [Website - Equilíbrio Natural](https://github.com/FrogDevs/equilibrionatural-website)
+- [Controle de Estoque - Equilíbrio Natural](https://github.com/FrogDevs/equilibrionatural-controle_estoque)
