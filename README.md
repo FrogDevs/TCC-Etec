@@ -4,6 +4,13 @@
 
 Este repositório é uma compilação dos trabalhos desenvolvidos em colaboração com a empresa Equilíbrio Natural como parte do Trabalho de Conclusão de Curso para a ETEC Jardim Ângela. O objetivo é centralizar os projetos em um único local, proporcionando uma visão abrangente do trabalho como um todo.
 
+- Read in [english.](en_README.md)
+
+## Sumário de Conteúdos
+
+- [Projetos](#projetos)
+- [Como Navegar pelos Projetos](#como-navegar-pelos-projetos)
+
 ## Projetos
 
 1. 🌐 **[Website - Frogdevs](https://github.com/FrogDevs/website):**
